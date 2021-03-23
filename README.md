@@ -11,7 +11,7 @@ Effective Modern C++ 2014,  Effective C++, Third Edition, 2005, Effective STL, 2
 
 https://www.fz-juelich.de/SharedDocs/Downloads/IAS/JSC/EN/slides/cplusplus/cplusplus.pdf?__blob=publicationFile
 
-#Resources for C++ Beginners
+# Resources for C++ Beginners
 
 https://gist.github.com/johnmcfarlane/1b2d9c83e4d3f700ba61e2df4077c613      
 
