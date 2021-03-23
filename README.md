@@ -5,6 +5,10 @@ https://github.com/federico-busato/Modern-CPP-Programming
 
 https://github.com/AnthonyCalandra/modern-cpp-features
 
+https://www.aristeia.com/books.html    https://www.aristeia.com/videos.html
+
+Effective Modern C++ 2014,  Effective C++, Third Edition, 2005, Effective STL, 2001, More Effective C++, 1996.
+
 https://www.fz-juelich.de/SharedDocs/Downloads/IAS/JSC/EN/slides/cplusplus/cplusplus.pdf?__blob=publicationFile
 
 
