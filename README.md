@@ -13,7 +13,12 @@ https://www.fz-juelich.de/SharedDocs/Downloads/IAS/JSC/EN/slides/cplusplus/cplus
 
 # Resources for C++ Beginners
 
-https://gist.github.com/johnmcfarlane/1b2d9c83e4d3f700ba61e2df4077c613      
+https://gist.github.com/johnmcfarlane/1b2d9c83e4d3f700ba61e2df4077c613   
+
+# How to Create a Shared C++ Library in Eclipse
+
+https://www.youtube.com/watch?v=puk8GFmwpmg
+
 
 I like programming
 
