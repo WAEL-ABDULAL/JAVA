@@ -19,6 +19,10 @@ https://gist.github.com/johnmcfarlane/1b2d9c83e4d3f700ba61e2df4077c613
 
 https://www.youtube.com/watch?v=puk8GFmwpmg
 
+# How to create a python library
+
+https://medium.com/analytics-vidhya/how-to-create-a-python-library-7d5aea80cc3f
+
 
 I like programming
 
