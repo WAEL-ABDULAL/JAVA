@@ -27,4 +27,7 @@ https://medium.com/analytics-vidhya/how-to-create-a-python-library-7d5aea80cc3f
 I like programming
 
 JAVA PHP HTML CSS 
+
+#Gayle Laakmann McDowell 
 https://github.com/dnl-blkv/mcdowell-cv
+https://www.crackingthecodinginterview.com/resources.html
