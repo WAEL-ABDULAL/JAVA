@@ -29,5 +29,7 @@ I like programming
 JAVA PHP HTML CSS 
 
 # Gayle Laakmann McDowell CV  & cracking the coding interview
+
 https://github.com/dnl-blkv/mcdowell-cv
+
 https://www.crackingthecodinginterview.com/resources.html
